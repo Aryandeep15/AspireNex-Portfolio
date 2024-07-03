@@ -1,0 +1,20 @@
+.App {
+    font-family: Arial, sans-serif;
+  }
+  
+  section {
+    padding: 2em;
+  }
+  
+  #about {
+    background-color: #f5f5f5; /* Skin color */
+  }
+  
+  #projects {
+    background-color: #fff;
+  }
+  
+  .skills .fa-icon, .footer .fa-icon {
+    color: #4b3832; /* Coffee brown */
+  }
+  

@@ -1,0 +1,16 @@
+.education {
+    padding: 2em;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .education h2 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+  
+  .education p {
+    font-size: 1.1em;
+    margin: 0.5em 0;
+  }
+  

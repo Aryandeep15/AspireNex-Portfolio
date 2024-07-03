@@ -1,0 +1,36 @@
+.projects {
+  padding: 2em;
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+}
+
+.projects h2 {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.project-item {
+  display: flex;
+  flex-direction: column; /* Ensure items stack vertically */
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2em;
+}
+
+.project-photo {
+  width: 300px; /* Increase photo size */
+  height: auto;
+  margin-bottom: 0.5em; /* Adjust spacing between photo and details */
+}
+
+.project-details {
+  display: flex;
+  align-items: center;
+  text-align: center; /* Center align text */
+}
+
+.project-details p {
+  font-size: 1.2em;
+  margin-right: 1em;
+}

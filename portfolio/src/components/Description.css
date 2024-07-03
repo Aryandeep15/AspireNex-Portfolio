@@ -1,0 +1,20 @@
+.description {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .text p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+  }
+  
+  .profile-photo img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  

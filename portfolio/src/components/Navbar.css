@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #4b3832; /* Coffee brown */
+    color: #fff;
+    padding: 1em 2em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-left {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .navbar-right a {
+    margin-left: 1.5em;
+    font-size: 1.1em;
+    transition: color 0.3s;
+  }
+  
+  .navbar-right a:hover {
+    color: #f5b895; /* Light brown color */
+  }
+  
