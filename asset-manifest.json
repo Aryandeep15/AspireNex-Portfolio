@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aryandeep15/AspireNex-Portfolio/static/css/main.a9713f44.css",
-    "main.js": "/Aryandeep15/AspireNex-Portfolio/static/js/main.4dc910e4.js",
-    "static/js/453.1407b060.chunk.js": "/Aryandeep15/AspireNex-Portfolio/static/js/453.1407b060.chunk.js",
-    "index.html": "/Aryandeep15/AspireNex-Portfolio/index.html",
-    "main.a9713f44.css.map": "/Aryandeep15/AspireNex-Portfolio/static/css/main.a9713f44.css.map",
-    "main.4dc910e4.js.map": "/Aryandeep15/AspireNex-Portfolio/static/js/main.4dc910e4.js.map",
-    "453.1407b060.chunk.js.map": "/Aryandeep15/AspireNex-Portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/AspireNex-Portfolio/static/css/main.a9713f44.css",
+    "main.js": "/AspireNex-Portfolio/static/js/main.a3345e1e.js",
+    "static/js/453.1407b060.chunk.js": "/AspireNex-Portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/AspireNex-Portfolio/index.html",
+    "main.a9713f44.css.map": "/AspireNex-Portfolio/static/css/main.a9713f44.css.map",
+    "main.a3345e1e.js.map": "/AspireNex-Portfolio/static/js/main.a3345e1e.js.map",
+    "453.1407b060.chunk.js.map": "/AspireNex-Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9713f44.css",
-    "static/js/main.4dc910e4.js"
+    "static/js/main.a3345e1e.js"
   ]
 }
